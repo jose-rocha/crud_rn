@@ -1,0 +1,86 @@
+export default  [
+  {
+    id: 1,
+    name: 'Aisha teste',
+    email: 'aisha@gmail.com',
+    avatarUrl: 'https://cdn.pixabay.com/photo/2016/08/20/05/36/avatar-1606914__340.png',
+  },
+  {
+    id: 2,
+    name: 'José Rocha',
+    email: 'jose.rocha@gmail.com',
+    avatarUrl: 'https://cdn.pixabay.com/photo/2016/08/20/05/38/avatar-1606916_960_720.png',
+  },
+  {
+    id: 3,
+    name: 'Confuso Sobrinho',
+    email: 'confuso.sobrinho@gmail.com',
+    avatarUrl: 'https://cdn.pixabay.com/photo/2016/11/18/23/38/child-1837375_960_720.png',
+  },
+  {
+    id: 4,
+    name: 'Eddie Brock',
+    email: 'eddie.brock@gmail.com',
+    avatarUrl: 'https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png',
+  },
+  {
+    id: 5,
+    name: 'Marcos Antônio',
+    email: 'marcos.antonio@gmail.com',
+    avatarUrl: 'https://cdn.pixabay.com/photo/2017/01/31/21/23/avatar-2027366_960_720.png',
+  },
+  {
+    id: 6,
+    name: 'Manuela Lima',
+    email: 'manuela.lima@gmail.com',
+    avatarUrl: 'https://cdn.pixabay.com/photo/2017/01/31/19/07/avatar-2026510_960_720.png',
+  },
+  {
+    id: 7,
+    name: 'Tux Linus',
+    email: 'tux.linus@gmail.com',
+    avatarUrl: 'https://cdn.pixabay.com/photo/2013/07/13/11/44/penguin-158551__480.png',
+  },
+  {
+    id: 8,
+    name: 'Ana Paula',
+    email: 'ana.paula@gmail.com',
+    avatarUrl: 'https://cdn.pixabay.com/photo/2022/02/25/23/22/woman-7034972_960_720.png',
+  },
+  {
+    id: 9,
+    name: 'Manoel Nobrega',
+    email: 'manoel.nobrega@gmail.com',
+    avatarUrl: 'https://cdn.pixabay.com/photo/2013/07/13/10/07/man-156584_960_720.png',
+  },
+  {
+    id: 10,
+    name: 'Luenilson Costa',
+    email: 'luenilson.costa@gmail.com',
+    avatarUrl: 'https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png',
+  },
+  {
+    id: 11,
+    name: 'Luan Costa',
+    email: 'luan.costa@gmail.com',
+    avatarUrl: 'https://cdn.pixabay.com/photo/2016/08/20/05/38/avatar-1606916_960_720.png',
+  },
+  {
+    id: 12,
+    name: 'Edigleuson Costa',
+    email: 'edigleuson.costa@gmail.com',
+    avatarUrl: 'https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png',
+  },
+  {
+    id: 13,
+    name: 'Luenilson Costa',
+    email: 'luenilson.costa@gmail.com',
+    avatarUrl: 'https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png',
+  },
+  {
+    id: 14,
+    name: 'Yasmin',
+    email: 'yasmin.costa@gmail.com',
+    avatarUrl: 'https://cdn.pixabay.com/photo/2016/08/20/05/36/avatar-1606914__340.png',
+  },
+];
